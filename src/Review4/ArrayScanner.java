@@ -13,7 +13,7 @@ public class ArrayScanner {
             System.out.println("please enter "+(i+1)+" "+"element");
             numbers[i]=input.nextInt();
             int sum=0;
-            
+
 
 
         }
